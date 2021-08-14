@@ -1,4 +1,6 @@
-### Hi there 👋
+### zhuzhu81998 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhuzhu81998.zhuzhu81998)
+![GitHub readme stats](https://github-readme-stats.vercel.app/api?username=zhuzhu81998&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhu81998&layout=compact&theme=dark)
 
 <!--
 **zhuzhu81998/zhuzhu81998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
